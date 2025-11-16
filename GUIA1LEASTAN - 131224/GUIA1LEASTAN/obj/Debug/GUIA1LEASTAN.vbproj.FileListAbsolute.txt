@@ -1,0 +1,16 @@
+D:\GUI Programming\A1\GUIA1LEASTAN\GUIA1LEASTAN\obj\Debug\ResolveAssemblyReference.cache
+D:\GUI Programming\A1\GUIA1LEASTAN\GUIA1LEASTAN\obj\Debug\GUIA1LEASTAN.frmlogin.resources
+D:\GUI Programming\A1\GUIA1LEASTAN\GUIA1LEASTAN\obj\Debug\GUIA1LEASTAN.Resources.resources
+D:\GUI Programming\A1\GUIA1LEASTAN\GUIA1LEASTAN\obj\Debug\GUIA1LEASTAN.vbproj.GenerateResource.Cache
+D:\GUI Programming\A1\GUIA1LEASTAN\GUIA1LEASTAN\bin\Debug\GUIA1LEASTAN.exe
+D:\GUI Programming\A1\GUIA1LEASTAN\GUIA1LEASTAN\bin\Debug\GUIA1LEASTAN.pdb
+D:\GUI Programming\A1\GUIA1LEASTAN\GUIA1LEASTAN\bin\Debug\GUIA1LEASTAN.xml
+D:\GUI Programming\A1\GUIA1LEASTAN\GUIA1LEASTAN\obj\Debug\GUIA1LEASTAN.exe
+D:\GUI Programming\A1\GUIA1LEASTAN\GUIA1LEASTAN\obj\Debug\GUIA1LEASTAN.xml
+D:\GUI Programming\A1\GUIA1LEASTAN\GUIA1LEASTAN\obj\Debug\GUIA1LEASTAN.pdb
+D:\GUI Programming\A1\GUIA1LEASTAN\GUIA1LEASTAN\obj\Debug\GUIA1LEASTAN.frmAddRecords.resources
+D:\GUI Programming\A1\GUIA1LEASTAN\GUIA1LEASTAN\obj\Debug\GUIA1LEASTAN.frmmenu.resources
+D:\GUI Programming\A1\GUIA1LEASTAN\GUIA1LEASTAN\obj\Debug\GUIA1LEASTAN.displaystudentreport.resources
+C:\Users\least\OneDrive - City of Dublin ETB\GUI Programming - Aaron\GUIA1LEASTAN - 131224\GUIA1LEASTAN\obj\Debug\GUIA1LEASTAN.exe
+C:\Users\least\OneDrive - City of Dublin ETB\GUI Programming - Aaron\GUIA1LEASTAN - 131224\GUIA1LEASTAN\obj\Debug\GUIA1LEASTAN.xml
+C:\Users\least\OneDrive - City of Dublin ETB\GUI Programming - Aaron\GUIA1LEASTAN - 131224\GUIA1LEASTAN\obj\Debug\GUIA1LEASTAN.pdb
